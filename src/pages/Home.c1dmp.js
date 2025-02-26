@@ -106,7 +106,7 @@ $w.onReady(function () {
     emailinput.onInput(() => checkInputs())
     dropdown.onChange(() => checkInputs())
 });
-
+// this is test for santosh
 // import { triggeredEmails } from "wix-crm-frontend";
 
 // function triggeringEmailfunc() {
