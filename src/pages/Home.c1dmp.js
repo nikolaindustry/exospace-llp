@@ -128,7 +128,7 @@ $w.onReady(function () {
 //         console.error("Email sending failed:", err);
 //     });
 // }
-
+// this is test
 import { triggeredEmails } from "wix-crm-frontend"
 
 function triggeringEmailfunc() {
